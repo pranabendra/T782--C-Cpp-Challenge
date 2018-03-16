@@ -17,6 +17,7 @@ My submission for Apertus T872 C/C++ Challenge for Google Summer of Code 2018
     
     Eg. `./raw12_to_png.out portrait-gainx2-offset2047-20ms-02.raw12 rggb`
 
+
 ### Note:
 
 `<bayer_pattern>` can <b>only</b> be any one of the following from the list 
