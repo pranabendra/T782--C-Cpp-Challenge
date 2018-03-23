@@ -3,7 +3,7 @@
 //  program
 //
 //  Created by PRANAB on 3/9/18.
-//  Copyright © 2018 PRANAB. All rights reserved.
+//  Copyright Â© 2018 PRANAB. All rights reserved.
 //
 
 #include <iostream>
@@ -471,3 +471,9 @@ int main(int argc, char *argv[])
     }
     return 0;
 }
+
+/*
+References :-
+1. https://github.com/TofuLynx
+2. http://www.dmi.unict.it/~battiato/mm1112/Parte%207.3%20%20-%20Demosaicing.pdf
+*/
